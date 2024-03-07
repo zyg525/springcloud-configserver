@@ -1,3 +1,5 @@
 student:
   name: jack
   age: 18
+server:
+  port: 8887
